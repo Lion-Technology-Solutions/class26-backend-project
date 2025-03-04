@@ -13,7 +13,7 @@ resource "aws_instance" "ec2_instance" {
     Manager              = "femi"
     Team_lead            = "olu"
     managed_by_Terraform = "yes"
-    Remote_state        =  "true"
+    Remote_state        =  "true-now"
   }
 
 
